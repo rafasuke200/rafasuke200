@@ -1,7 +1,7 @@
 ## Olá, Me Chamo Rafael !  👋
 
 ## Bem vindo ao meu perfil GitHub :sunglasses:
-- 🔭 Atualmente faço parte do Programa ONE da alura/ Oracle.
+- 🔭 Atualmente faço parte do Programa ONE da Alura/ Oracle.
 - 🌱 Faço parte dos alunos inciantes em programação.
 - :books: atualmente estou estudando:
 - ``HTML`` ``CSS`` ``JAVASCRIPT``
