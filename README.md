@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá, Me Chamo Rafael !  👋
 
+## Bem vindo ao meu perfil GitHub :sunglasses:
+- 🔭 Atualmente faço parte do Programa ONE da alura/ Oracle.
+- 🌱 Faço parte dos alunos inciantes em programação.
+- :books: atualmente estou estudando:
+- ``HTML`` ``CSS`` ``JAVASCRIPT``
 <!--
 **rafasuke200/rafasuke200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
